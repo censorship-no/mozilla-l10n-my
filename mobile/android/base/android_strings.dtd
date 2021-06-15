@@ -922,3 +922,20 @@ Picture-in-picture mini window -->
 web sites through the HTML Notifications API. -->
 <!ENTITY site_notifications_channel "ဝဘ်ဆိုက်အသိပေးချက်များ">
 <!ENTITY crash_handler_notifications_channel "&brandShortName; အပျက်အဆီးတင်ပြသူ">
+
+<!-- <CENO> -->
+<!-- "No Wi-Fi" dialog -->
+<!ENTITY ceno_wifi_disconnected_dialog_title "CENO Browser သတိပေးချက်">
+<!ENTITY ceno_wifi_disconnected_dialog_description "CENO သည် သင် မှန်းထားသည်ထက် ဒေတာ ပိုမိုအသုံးပြုနိုင်သောကြောင့် သင့်တွင် Wi-Fi ချိတ်ဆက်မှု ရှိချိန်တွင် ၎င်းကို အသုံးပြုရန် အကြံပြုထားသည်။ သင်သည် မိုဘိုင်းဒေတာ အသုံးပြုနေချိန်တွင် CENO ကို ရပ်လိုက ရပ်နိုင်သည်။.">
+<!ENTITY ceno_wifi_disconnected_dialog_stop_now "CENO ကို ယခု ရပ်ပါ">
+<!ENTITY ceno_wifi_disconnected_dialog_continue "ဆက်လုပ်မည်">
+<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "ထပ်မပြပါနှင့်">
+
+<!-- Service notification and actions -->
+<!ENTITY ceno_notification_title "CENO Browser ဝန်ဆောင်မှု">
+<!ENTITY ceno_notification_description "ရပ်ရန် နှိပ်ပါ">
+<!ENTITY ceno_notification_home_description "ပင်မစာမျက်နှာ">
+<!ENTITY ceno_notification_purge_description "ဖျက်မည်&#9888;">
+<!ENTITY ceno_notification_purge_do_description "ဟုတ်သည်">
+<!ENTITY ceno_notification_channel_name "CENO ဝန်ဆောင်မှု">
+<!-- </CENO> -->
