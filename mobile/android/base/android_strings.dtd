@@ -925,7 +925,7 @@ web sites through the HTML Notifications API. -->
 
 <!-- <CENO> -->
 <!-- Home page browsing mode reminder. -->
-<!ENTITY ceno_home_mode_description "CENO သုံးစွဲသူများနှင့်မျှဝေရန် ပုံမှန်တဘ်များကိုသုံးပါ။ မမျှဝေလိုပါက (သို့) လော့ဂ်အင်ဝင်ရန်လိုအပ်ပါက သီးသန့်တဘ်များကိုသုံးပါ။ ပိုမိုလေ့လာရန် နှိပ်ပါ။">
+<!ENTITY ceno_home_mode_description "CENO သုံးစွဲသူများနှင့်မျှဝေရန် ပုံမှန်တပ်ဗ်များကိုသုံးပါ။ မမျှဝေလိုပါက (သို့) လော့ဂ်အင်ဝင်ရန်လိုအပ်ပါက သီးသန့်တပ်ဗ်များကိုသုံးပါ။ ပိုမိုလေ့လာရန် နှိပ်ပါ။">
 <!-- TRANSLATORS: Keep the URL as is unless the section has been translated. -->
 <!ENTITY ceno_mode_manual_link "https://censorship.no/user-manual/my/concepts/public-private.html">
 
