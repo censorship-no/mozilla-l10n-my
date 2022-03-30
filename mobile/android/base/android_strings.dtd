@@ -932,12 +932,12 @@ web sites through the HTML Notifications API. -->
 <!-- Extra paragraph in private tab panel. -->
 <!ENTITY ceno_private_tab_panel_description "CENO သည် သီးသန့်တပ်ဗ်များမှ အကြောင်းအရာများကို အခြားသူများနှင့် မမျှဝေပါ။ လော့ဂ်အင် ပြုလုပ်ရန်လိုအပ်သော ဆိုက်များသို့ သင် လုံခြုံစွာ ဝင်ရောက်နိုင်ပါသည်။ သို့သော် အင်တာနက်ကို အသုံးပြုဖို့ လိုအပ်ပါသည်။">
 
-<!-- "No Wi-Fi" dialog -->
-<!ENTITY ceno_wifi_disconnected_dialog_title "CENO ဘရောက်ဇာ သတိပေးချက်">
-<!ENTITY ceno_wifi_disconnected_dialog_description "CENO သည် သင် မှန်းထားသည်ထက် ဒေတာ ပိုမိုအသုံးပြုနိုင်သောကြောင့် သင့်တွင် Wi-Fi ချိတ်ဆက်မှု ရှိချိန်တွင် ၎င်းကို အသုံးပြုရန် အကြံပြုထားသည်။ သင်သည် မိုဘိုင်းဒေတာ အသုံးပြုနေချိန်တွင် CENO ကို ရပ်လိုက ရပ်နိုင်သည်။">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_now "CENO ကို ယခု ရပ်ပါ">
-<!ENTITY ceno_wifi_disconnected_dialog_continue "ဆက်လုပ်မည်">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "ထပ်မပြပါနှင့်">
+<!-- "On mobile data" dialog -->
+<!ENTITY ceno_on_mobile_data_dialog_title "CENO ဘရောက်ဇာ သတိပေးချက်">
+<!ENTITY ceno_on_mobile_data_dialog_description "CENO သည် သင် မှန်းထားသည်ထက် ဒေတာ ပိုမိုအသုံးပြုနိုင်သောကြောင့် သင့်တွင် Wi-Fi ချိတ်ဆက်မှု ရှိချိန်တွင် ၎င်းကို အသုံးပြုရန် အကြံပြုထားသည်။ သင်သည် မိုဘိုင်းဒေတာ အသုံးပြုနေချိန်တွင် CENO ကို ရပ်လိုက ရပ်နိုင်သည်။">
+<!ENTITY ceno_on_mobile_data_dialog_stop_now "CENO ကို ယခု ရပ်ပါ">
+<!ENTITY ceno_on_mobile_data_dialog_continue "ဆက်လုပ်မည်">
+<!ENTITY ceno_on_mobile_data_dialog_stop_showing "ထပ်မပြပါနှင့်">
 
 <!-- Service notification and actions -->
 <!ENTITY ceno_notification_title "CENO ဘရောက်ဇာ ဝန်ဆောင်မှု">
